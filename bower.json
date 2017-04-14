@@ -1,0 +1,20 @@
+{
+  "name": "mean-app",
+  "description": "Aplicación MEAN. Curso Udemy.",
+  "main": "index.js",
+  "authors": [
+    "AG"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
